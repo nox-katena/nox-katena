@@ -11,6 +11,6 @@ I like litwick.
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=seonah)](https://solved.ac/profile/seonah)  
 
-[![CodeForces Profile](http://cf.leed.at?id=mz_en)](https://codeforces.com/profile/starchasm_nyx)
+[![CodeForces Profile](http://cf.leed.at?id=starchasm_nyx)](https://codeforces.com/profile/starchasm_nyx)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nox-katena&theme=material-palenight&show_icons=true)
